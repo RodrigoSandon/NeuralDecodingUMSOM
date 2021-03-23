@@ -1,11 +1,11 @@
 # Neuron Decoding Project 🧠
 
-# To-Do:
+# To-Do 📓
 1. Continue writing manuscript
 3. Need to find a better model than Resnet18
 4. Keep trying different models and parameters to maximize 6-region classification accuracy -45%, 100epochs, around 60% should be good (classifying 6 regions)
 
-#Bugs 📓
+# Bugs 🦋
 1.  Run captum analysis on 45% - can't run one analysis but rest are fine
 2.  Implement neuron attribution from CAPTUM -have to build the pipeline, no tutorial with a smooth transition
 
