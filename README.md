@@ -2,7 +2,7 @@
 
 # To-Do:
 1. Continue writing manuscript
-3. We need to find a better model than Resnet18
+3. Need to find a better model than Resnet18
 4. Keep trying different models and parameters to maximize 6-region classification accuracy -45%, 100epochs, around 60% should be good (classifying 6 regions)
 
 #Bugs
@@ -18,4 +18,4 @@
 
 # Non-urgent
 1. Work on writing a program to do descriptive statistics (e.g. range, mean, stdev) that can describe potential differences between the different classifications of images (visp, visal, visam, visrl, vispm, visl).
-2. Finally, work on another shuffling method of data --bootstrapping in which we can also get the mean and stdev of its results once we have 10 results from the 10 different trials that were ran.
+2. Work on another shuffling method of data --bootstrapping in which we can also get the mean and stdev of its results once we have 10 results from the 10 different trials that were ran.
