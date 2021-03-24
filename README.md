@@ -7,8 +7,9 @@
 # Writing To-Do 📓
 
 1. Add figures
-2. Update on progress
+2. Update it based on progress
 3. Methods section
+4. Read articles found to get a better idea on how to write intro
 
 # Bugs 🦋
 1.  Run captum analysis on 45% - can't run one analysis but rest are fine
