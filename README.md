@@ -5,7 +5,7 @@
 2. Keep trying different models and parameters to maximize 6-region classification accuracy -45%, 100epochs, around 60% should be good (classifying 6 regions)
 
 # Writing To-Do 📓
-
+https://www.brainmeeting2021.com/en/event-submissions
 1. Add figures
 2. Update it based on progress
 3. Methods section
